@@ -49,22 +49,11 @@ _Lesson: Avoid accidental standards._
 > [Thomas Betts](https://www.infoq.com/presentations/progress-communication-collaboration/)  
 
 
-## The Dead Sea Effect
-
-* [The Dead Sea Effect](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/)
-* Those with the most talent will leave, those who remain are the _residue_.
-* Related: [The Net Negative Producing Programmer](http://johnnaegle.com/2009/08/11/the-net-negative-producing-programer/)
-
-
 ## Entropy & Rust
 
 _Lesson: Code "rusts" over time._
 
 * [Entropy](https://en.wikipedia.org/wiki/Entropy) exists in all systems. [Software is no exception](https://en.wikipedia.org/wiki/Software_entropy).
-* [What is your Inverse Bus Factor](https://jhall.io/archive/2021/07/22/what-is-your-inverse-bus-factor/)
-  * How many people do you need to lose before the team can become productive?
-* [The Net Negative Producing Programmer](https://wiki.c2.com/?NetNegativeProducingProgrammer)
-  > "There are net negative producing programmers (NNPPs)..., who insert enough spoilage to exceed the value of their production. So, it is important to make the bold statement: Taking a poor performer off the team can often be more productive than adding a good one."
 
 
 ## [Goodharts Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) & [Perverse Incentive](https://en.wikipedia.org/wiki/Perverse_incentive)
@@ -78,11 +67,7 @@ The _"Cobra Effect"_ and [The Great Hanoi Rat Massacre](https://en.wikipedia.org
 
 [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
 
-> Never attribute to malice that which is adequately explained by stupidity.
-
-or
-
-> "Don't assume deliberate intent when ignorance or misunderstanding could be the cause."
+"Don't assume deliberate intent when ignorance or misunderstanding could be the cause."
 
 
 ## Hofstadter's Law
@@ -141,7 +126,7 @@ Source: [Method-Core Injection: a C# Pattern for Reducing Boilerplate Code, Ann 
 or...
 
 * “plurality should not be posited without necessity.”
-* Entities are not to be multiplied beyond necessity.
+* "Entities are not to be multiplied beyond necessity."
 * The principle gives precedence to simplicity: **of two competing theories, the simpler explanation of an entity is to be preferred.**
 
 
@@ -164,17 +149,9 @@ Also known as the "Principle of Least Surprise"
 * This can lead to incorrect conclusions regarding that which didn't make it through selection.
 
 
-## The Thermocline of Truth
-
-* [The Thermocline of Truth](https://www.notion.so/The-Wetware-Crisis-the-Thermocline-of-Truth-Bruce-F-Webster-d280c2224a614e3ca5a8e35005336365)
-* The higher you go in an organization, the more the truth is filtered to you.
-
-
 ## Yoda Conditions
 
 [Yoda Conditions](https://en.wikipedia.org/wiki/Yoda_conditions) reverse the traditional order of two values in conditional checks.
-
-Please avoid these!
 
 
 # Alan Perlis Epigrams AKA _"Perlisms"_
@@ -197,7 +174,6 @@ Please avoid these!
   * [Amazon.ca](https://www.amazon.ca/Where-Wizards-Stay-Up-Late/dp/0684832674/)
 * [Assembly command to Halt and Spontaneously Combust](https://www.eecg.utoronto.ca/~pc/research/publications/mipsx.isetman.pdf)
 * [IP over Avian Carriers, Wikipedia](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers)
-* [CIA Simple Sabotage Field Manual (Declassified)](https://www.hsdl.org/?abstract&did=750070)
 * ["A Series of Tubes"](https://en.wikipedia.org/wiki/Series_of_tubes)
 * [Al Gore's role in the Internet's Creation](https://en.wikipedia.org/wiki/Al_Gore_and_information_technology)
 * [Strategic lawsuit against public participation (SLAPP)](https://en.wikipedia.org/wiki/Strategic_lawsuit_against_public_participation)
@@ -218,9 +194,9 @@ Please avoid these!
 
 # Irrelevant (but interesting trivia)
 
+* [Complaint tablet to Ea-Nasir](https://en.wikipedia.org/wiki/Complaint_tablet_to_Ea-n%C4%81%E1%B9%A3ir)
+  * The world's oldest recorded complaint, on a stone tablet
 * [Charles Boycott](https://en.wikipedia.org/wiki/Charles_Boycott)
   * Where we get the term "Boycott" from.
 * [Ken McElroy](https://en.wikipedia.org/wiki/Ken_McElroy)
   * An evil man, murdered by the whole town. No one was convicted. A story reminiscent of [Murder on the Orient Express](https://en.wikipedia.org/wiki/Murder_on_the_Orient_Express)
-* [Complaint tablet to Ea-Nasir](https://en.wikipedia.org/wiki/Complaint_tablet_to_Ea-n%C4%81%E1%B9%A3ir)
-  * The world's oldest recorded complaint, on a stone tablet
