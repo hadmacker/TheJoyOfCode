@@ -39,6 +39,6 @@
 * :building_construction: [Hartford Civic Centre Roof Collapse](https://structurescentre.com/the-hartford-civic-centre-roof-collapse/)
   * Due to calculation mistake in CAD software
 * :crystal_ball: [1983 Soviet nuclear false alarm incident](https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident)
-  * Sunlight reflecting off clouds was recognized as missiles, triggering early detection. Thiswas considered a computer error.
+  * Sunlight reflecting off clouds was recognized as missiles, triggering early detection. This was considered a computer error.
 * The [Year 2038 Problem](https://en.wikipedia.org/wiki/Year_2038_problem)
   > AKA "The Epochalypse" or Y2K38 bug

@@ -13,9 +13,9 @@
 * [Boiling Frog](https://en.wikipedia.org/wiki/Boiling_frog)
 * The premise is that if a frog is put suddenly into boiling water, it will jump out, but if the frog is put in tepid water which is then brought to a boil slowly, it will not perceive the danger and will be cooked to death.
 * The story is often used as a metaphor for the inability or unwillingness of people to react to or be aware of sinister threats that arise gradually rather than suddenly.
-* :Warning: while this premise was at one point believed to be true, modern biologists claim this premise is false and that a frog will jump out as changing locations is a natural thermoregulation strategy for frogs.
+* :warning: while this premise was at one point believed to be true, modern biologists claim this premise is false and that a frog will jump out as changing locations is a natural thermoregulation strategy for frogs.
 * [Boiling Frog Syndrome](https://www.linkedin.com/pulse/boiling-frog-syndrome-suyash-jaju)
-  * Don't put up with the rising temperatures, **never settle**, and act sooner rather than later!
+  * Don't put up with the rising temperatures, _never settle_, and act sooner rather than later!
 
 ## The Bunny Theory of Code
 
@@ -23,7 +23,7 @@
 
 * [The Bunny Theory of Code](https://humanwhocodes.com/blog/2015/05/14/the-bunny-theory-of-code/)
 
-> No accidental standards.
+_Lesson: Avoid accidental standards._
 
 
 ## [Chesterton's Fence](https://fs.blog/chestertons-fence/)
@@ -58,12 +58,13 @@
 
 ## Entropy & Rust
 
+_Lesson: Code "rusts" over time._
+
 * [Entropy](https://en.wikipedia.org/wiki/Entropy) exists in all systems. [Software is no exception](https://en.wikipedia.org/wiki/Software_entropy).
-* Code "rusts" over time.
 * [What is your Inverse Bus Factor](https://jhall.io/archive/2021/07/22/what-is-your-inverse-bus-factor/)
   * How many people do you need to lose before the team can become productive?
 * [The Net Negative Producing Programmer](https://wiki.c2.com/?NetNegativeProducingProgrammer)
-  > "There are net negative producing programmers (NNPPs) on almost all projects, who insert enough spoilage to exceed the value of their production. So, it is important to make the bold statement: Taking a poor performer off the team can often be more productive than adding a good one."
+  > "There are net negative producing programmers (NNPPs)..., who insert enough spoilage to exceed the value of their production. So, it is important to make the bold statement: Taking a poor performer off the team can often be more productive than adding a good one."
 
 
 ## [Goodharts Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) & [Perverse Incentive](https://en.wikipedia.org/wiki/Perverse_incentive)
@@ -78,6 +79,10 @@ The _"Cobra Effect"_ and [The Great Hanoi Rat Massacre](https://en.wikipedia.org
 [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
 
 > Never attribute to malice that which is adequately explained by stupidity.
+
+or
+
+> "Don't assume deliberate intent when ignorance or misunderstanding could be the cause."
 
 
 ## Hofstadter's Law
@@ -117,6 +122,8 @@ The _"Cobra Effect"_ and [The Great Hanoi Rat Massacre](https://en.wikipedia.org
 
  > "Lewkowicz’s Law" states that any information -- be it data, text, or code -- that lives in more than one place, will diverge over time.
 
+Source: [Method-Core Injection: a C# Pattern for Reducing Boilerplate Code, Ann Lewkowicz](http://www.annlewkowicz.com/2022/12/method-core-injection-c-pattern-for.html)
+
 
 ## [Mediocrity Principle](https://en.wikipedia.org/wiki/Mediocrity_principle)
 
@@ -144,12 +151,6 @@ Also known as the "Principle of Least Surprise"
 
 * [Principle of Least Astonishment (POLA), Wikipedia](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
   > "a component of a system should behave in a way that most users will expect it to behave, and therefore not astonish or surprise users."
-
-## Reacting vs. Responding
-
-> **Reacting** is an instinctive, emotional response to a situation. It's often impulsive and can be influenced by our past experiences or fears. On the other hand, **responding** is a thoughtful and deliberate action. It involves considering the situation, weighing the options, and making a conscious decision.  
-> Emphasis mine  
-> From: [Reacting vs Responding in Difficult Conversations: A Neuroscience Perspective](https://www.linkedin.com/pulse/reacting-vs-responding-difficult-conversations-laura/)  
 
 
 ## [Streisand Effect](https://en.wikipedia.org/wiki/Streisand_effect)
@@ -194,12 +195,12 @@ Please avoid these!
 * Book: Where Wizards Stay Up Late, Katie Hafner
   * [Good Reads](https://www.goodreads.com/en/book/show/281818.Where_Wizards_Stay_Up_Late)
   * [Amazon.ca](https://www.amazon.ca/Where-Wizards-Stay-Up-Late/dp/0684832674/)
-* [Halt and Spontaneously Combust](https://www.eecg.utoronto.ca/~pc/research/publications/mipsx.isetman.pdf)
+* [Assembly command to Halt and Spontaneously Combust](https://www.eecg.utoronto.ca/~pc/research/publications/mipsx.isetman.pdf)
 * [IP over Avian Carriers, Wikipedia](https://en.wikipedia.org/wiki/IP_over_Avian_Carriers)
 * [CIA Simple Sabotage Field Manual (Declassified)](https://www.hsdl.org/?abstract&did=750070)
 * ["A Series of Tubes"](https://en.wikipedia.org/wiki/Series_of_tubes)
 * [Al Gore's role in the Internet's Creation](https://en.wikipedia.org/wiki/Al_Gore_and_information_technology)
-* [Strategic lawsuit against public participation](https://en.wikipedia.org/wiki/Strategic_lawsuit_against_public_participation)
+* [Strategic lawsuit against public participation (SLAPP)](https://en.wikipedia.org/wiki/Strategic_lawsuit_against_public_participation)
   > Strategic lawsuits against public participation (also known as SLAPP suits)...are lawsuits intended to censor, intimidate, and silence critics by burdening them with the cost of a legal defense until they abandon their criticism or opposition.
 * [A practical use of the null garbage collector](https://devblogs.microsoft.com/oldnewthing/20180228-00/?p=98125)
 * [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
