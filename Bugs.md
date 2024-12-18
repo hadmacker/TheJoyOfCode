@@ -6,6 +6,8 @@
 * :lady_beetle: [The world's first computer bug](https://www.globalapptesting.com/blog/the-worlds-first-computer-bug-global-app-testing)
 * :new_moon: [The code worked differently when the moon was full](https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full)
   * [Hysteresis](https://en.wikipedia.org/wiki/Hysteresis): the dependence of the state of a system on its history.
+* :package: [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)
+  > In computer programming jargon, a heisenbug is a software bug that seems to disappear or alter its behavior when one attempts to study it.
 * :date: [xkcd: Historical Dates](https://xkcd.com/2676/)
   > Many files and database entries contain a date. When it is not set, it often defaults to the first day in the system. The two dates listed below are mentioned as "significant" in the comic.  
   > [Explain xkcd 2676](https://www.explainxkcd.com/wiki/index.php/2676:_Historical_Dates)  
@@ -40,5 +42,6 @@
   * Due to calculation mistake in CAD software
 * :crystal_ball: [1983 Soviet nuclear false alarm incident](https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident)
   * Sunlight reflecting off clouds was recognized as missiles, triggering early detection. This was considered a computer error.
-* The [Year 2038 Problem](https://en.wikipedia.org/wiki/Year_2038_problem)
+* :mantelpiece_clock: The [Year 2038 Problem](https://en.wikipedia.org/wiki/Year_2038_problem)
   > AKA "The Epochalypse" or Y2K38 bug
+
