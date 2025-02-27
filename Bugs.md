@@ -45,3 +45,7 @@
 * :mantelpiece_clock: The [Year 2038 Problem](https://en.wikipedia.org/wiki/Year_2038_problem)
   > AKA "The Epochalypse" or Y2K38 bug
 
+# Interesting Test data
+
+* Long Place Names
+  * [Lake Char­gogg­a­gogg­man­chaugg­a­gogg­chau­bun­a­gung­a­maugg](https://en.wikipedia.org/wiki/Lake_Chaubunagungamaug)
