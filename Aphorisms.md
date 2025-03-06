@@ -46,9 +46,9 @@ _Lesson: Avoid accidental standards._
 
 ## Department of Defense, Defense Innovation Board Publications
 
-* [DIB: Detecting Agile BS](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
-* [DIB: Ten Commandments of Software](https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF)
-* [DIB: Metrics for Software Development projects](https://media.defense.gov/2018/Jul/10/2001940937/-1/-1/0/DIB_METRICS_FOR_SOFTWARE_DEVELOPMENT_V0.9_2018.07.10.PDF)
+- [DIB: Detecting Agile BS](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+- [DIB: Ten Commandments of Software](https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF)
+- [DIB: Metrics for Software Development projects](https://media.defense.gov/2018/Jul/10/2001940937/-1/-1/0/DIB_METRICS_FOR_SOFTWARE_DEVELOPMENT_V0.9_2018.07.10.PDF)
 
 ## Entropy & Rust
 
@@ -87,6 +87,14 @@ The _"Cobra Effect"_ and [The Great Hanoi Rat Massacre](https://en.wikipedia.org
 ## Is it worth the time
 
 [xkcd 1205](https://xkcd.com/1205/)
+
+## [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
+
+> ...Jevons paradox...occurs when technological advancements make a resource more efficient to use (thereby reducing the amount needed for a single application); however, as the cost of using the resource drops...this results in overall demand increases causing total resource consumption to rise.
+
+Said another way:
+
+> Imagine a new, more fuel-efficient car is invented. You might think that this would lead to less fuel being used overall. However, because the car is cheaper to run, more people might buy it and drive more often, leading to an increase in total fuel consumption.
 
 ## [Law of Jante](https://en.wikipedia.org/wiki/Law_of_Jante)
 
@@ -129,15 +137,15 @@ Also known as the "Principle of Least Surprise"
 
 ## [SOLID as an antipattern: when guiding principles go bad](https://blog.spinthemoose.com/2012/12/17/solid-as-an-antipattern/)
 
-> Simple design  
->   
-> passes all tests;  
->   
-> clearly expresses intent;  
->   
-> contains no duplication;  
->   
-> minimizes the number of classes and methods  
+> Simple design
+>
+> passes all tests;
+>
+> clearly expresses intent;
+>
+> contains no duplication;
+>
+> minimizes the number of classes and methods
 
 ## [Streisand Effect](https://en.wikipedia.org/wiki/Streisand_effect)
 
