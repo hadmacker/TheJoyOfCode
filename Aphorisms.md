@@ -128,6 +128,10 @@ or...
 - "Entities are not to be multiplied beyond necessity."
 - The principle gives precedence to simplicity: **of two competing theories, the simpler explanation of an entity is to be preferred.**
 
+## NASA - The Power of 10: Rules for Developing Safety-Critical Code
+
+* [The Power of 10: Rules for Developing Safety-Critical Code](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code)
+
 ## Principle of Least Astonishment (POLA)
 
 Also known as the "Principle of Least Surprise"
