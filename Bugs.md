@@ -44,6 +44,8 @@
   * Sunlight reflecting off clouds was recognized as missiles, triggering early detection. This was considered a computer error.
 * :mantelpiece_clock: The [Year 2038 Problem](https://en.wikipedia.org/wiki/Year_2038_problem)
   > AKA "The Epochalypse" or Y2K38 bug
+* [Train Axle Counter 8-bit logic](https://en.wikipedia.org/wiki/Axle_counter#:~:text=trains%20with%20exactly,the%20exact%20number.)
+  > In older installations, the evaluators may use 8-bit logic, causing numeric overflow when a train with 256 or more axles passes the axle counter.
 
 # Interesting Test data
 

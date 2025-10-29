@@ -183,6 +183,11 @@ This one is about diversity of thought. Selection requires variety. Are we weedi
 
 > Syntactic sugar causes cancer of the semicolon.
 
+# It's always DNS
+
+[A haiku about DNS](https://www.cyberciti.biz/humour/a-haiku-about-dns/)
+[cached](./cached/dns.jpg)
+
 # History & Reference
 
 - Book: Where Wizards Stay Up Late, Katie Hafner
