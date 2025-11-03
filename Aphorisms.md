@@ -155,6 +155,10 @@ Also known as the "Principle of Least Surprise"
 
 > The Streisand effect is a phenomenon that occurs when an attempt to hide, remove, or censor information has the unintended consequence of increasing awareness of that information
 
+## [Sturgeon's Law](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
+
+> 90% of everything is crud
+
 ## [Survivorship Bias](https://en.wikipedia.org/wiki/Survivorship_bias)
 
 - The logical error of concentrating on the things that made it past selection and overlooking those that did not, typically because of a lack of visibility.
